@@ -9,3 +9,7 @@ Folders contains a separate file for cpp & for testbench.
 This might be helpful during B.tech Minor Projects Assignment.
 
 This is for those who are interested in Hardware implementation in FPGA using HLS (C/C++).
+
+Copy paste XDC File for Bitstream Generation and Add New Constraints , implement it on Baysys3 board - Vendor Digilent .
+
+
